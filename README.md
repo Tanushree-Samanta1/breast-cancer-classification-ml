@@ -1,4 +1,4 @@
-Breast Cancer Classification – Machine Learning Assignment 2
+**Breast Cancer Classification – Machine Learning Assignment 2**
 
 1. Problem Statement
 
@@ -31,7 +31,7 @@ The dataset satisfies the assignment requirements of a minimum of 500 instances 
 3. GitHub Repository Link
 
 GitHub Repository:
-[ADD YOUR GITHUB REPOSITORY LINK HERE]
+
 
 4. Machine Learning Models Used
 
