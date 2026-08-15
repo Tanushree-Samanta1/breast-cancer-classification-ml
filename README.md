@@ -32,7 +32,7 @@ The dataset satisfies the assignment requirements of a minimum of 500 instances 
 
       GitHub Repository:
 
-  https://github.com/Tanushree-Samanta1/breast-cancer-classification-ml.git
+  https://github.com/Tanushree-Samanta1/breast-cancer-classification-ml
 
 4. Machine Learning Models Used
 
