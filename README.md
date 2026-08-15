@@ -1,6 +1,6 @@
 **Breast Cancer Classification – Machine Learning Assignment 2**
 
-1. Problem Statement
+**1. Problem Statement**
 
 Breast cancer classification is an important machine learning application where tumor characteristics can be used to classify a diagnosis as Benign or Malignant.
 
@@ -9,7 +9,7 @@ The objective of this project is to implement and compare multiple machine learn
 An interactive Streamlit web application was also developed to demonstrate model performance and perform predictions on test data.
 
 
-2. Dataset Description
+**2. Dataset Description**
 
 The Breast Cancer (UCI) dataset used in this project contains:
 
@@ -30,8 +30,9 @@ The dataset satisfies the assignment requirements of a minimum of 500 instances 
 
 3. GitHub Repository Link
 
-GitHub Repository:
+      GitHub Repository:
 
+  https://github.com/Tanushree-Samanta1/breast-cancer-classification-ml.git
 
 4. Machine Learning Models Used
 
@@ -135,7 +136,8 @@ Actual: Malignant
 Malignant Probability: 100.00%
 Prediction Status: Correct
 
-
+8. Project Structure
+   
 breast-cancer-classification-ml/
 │
 ├── app.py
@@ -151,8 +153,8 @@ breast-cancer-classification-ml/
     ├── random_forest.pkl
     └── scaler.pkl
     
-    
- 9. Technologies Used
+9. Technologies Used
+   
 Python
 Pandas
 NumPy
@@ -165,7 +167,8 @@ Joblib
 10. Live Streamlit Application
 
 Streamlit App:
-[ADD YOUR LIVE STREAMLIT APP LINK HERE]
+
+   https://breast-cancer-classification-ml-5ruzoxxhkdtcmqzpthwv4g.streamlit.app/
 
 
 
